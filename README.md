@@ -10,3 +10,5 @@ make
 bin/DebayerImage.out
 ```
 After running these commands, one can see the debayered colored channels in `results` folder.
+
+Saved for later: https://wiki.apertus.org/index.php/RAW12
